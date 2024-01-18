@@ -1,0 +1,82 @@
+body {
+	background-image: url("backgroundimg.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100%;
+
+}
+
+
+
+#box  { 
+	background-color:lightyellow;
+	text-align: center;
+	font-family: 'Lemon', serif;
+
+}
+
+h3 {
+	text-align: center;
+	font-family: 'Lemon', serif;
+	text-decoration: underline;
+
+}
+
+#description {
+	background-color: lightyellow;
+	padding: 20px;
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+p {
+	font-family: 'Urbanist', sans-serif;
+	font-weight: bolder;
+}
+
+#picture {
+	background-color: lightyellow;
+	width: 400px;
+	padding: 5px;
+	display: inline-block;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+
+#picture2 {
+	background-color: lightyellow;
+	width: 420px;
+	padding: 5px;
+	display: inline-block;
+	margin-left: 20px;
+	margin-right: 20p;
+	margin-top: 20px;
+	margin-bottom: 20px;
+
+}
+
+#information {
+	background-color: lightyellow;
+	width: 400px;
+	padding: 5px;
+	margin-right: 20px;
+	margin-left: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	display: inline-block;
+}
+
+#ending {
+	background-color: lightyellow;
+
+}
+
+
+
+
+
+
